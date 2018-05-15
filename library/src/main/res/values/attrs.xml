@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CoverFrameLayout">
+        <attr name="cover_radius" format="dimension" />
+        <attr name="cover_leftTopRadius" format="dimension" />
+        <attr name="cover_rightTopRadius" format="dimension" />
+        <attr name="cover_leftBottomRadius" format="dimension" />
+        <attr name="cover_rightBottomRadius" format="dimension" />
+    </declare-styleable>
+</resources>
